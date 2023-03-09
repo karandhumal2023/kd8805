@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kd8805
-- 👀 I’m interested in java and javas frameworks
-- 🌱 I’m currently learning java advance
+- 👋 Hi, I’m @karandhumal2023
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on open source projects
